@@ -1,0 +1,12 @@
+* {
+  margin-top: 5px;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: sans-serif;
+}
+
+h1 {
+  font-style: italic;
+  text-align: center;
+}
